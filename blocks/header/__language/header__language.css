@@ -1,0 +1,9 @@
+.header__language {
+    transform: rotate(-90deg);
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #070707;
+    padding-bottom: 40px;
+    text-transform: uppercase;
+}

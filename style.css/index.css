@@ -1,0 +1,78 @@
+@import url('../vendor/global.css');
+@import url('../blocks/page/page.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/__container/header__container.css');
+@import url('../blocks/header/__inner/header__inner.css');
+@import url('../blocks/header/__language/header__language.css');
+@import url('../blocks/header/__link/header__link.css');
+@import url('../blocks/header/__links/header__links.css');
+@import url('../blocks/header/__main/header__main.css');
+@import url('../blocks/header/__paragraph/header__paragraph.css');
+@import url('../blocks/header/__portret/header__portret.css');
+@import url('../blocks/header/__portrets/header__portrets.css');
+@import url('../blocks/header/__title/header__title.css');
+
+/* myself */
+
+@import url('../blocks/myself/myself.css');
+@import url('../blocks/myself/__main-text/myslef__main-text.css');
+@import url('../blocks/myself/__title/myself__title.css');
+@import url('../blocks/myself/__text/myself__text.css');
+
+/* skills */
+
+@import url('../blocks/skills/skills.css');
+@import url('../blocks/skills/__container/skills__container.css');
+@import url('../blocks/skills/__icon/skills__icon.css');
+@import url('../blocks/skills/__name/skills__name.css');
+@import url('../blocks/skills/__subtitle/skills__subtitle.css');
+.footer {}
+
+.myself__title {}
+
+.footer__subtitle {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+.footer__button {
+    width: 180.5px;
+    height: 42px;
+    background-color: black;
+    border-radius: 15px;
+    cursor: pointer;
+    padding: 10px 30px 10px 30px;
+    margin: 0 auto;
+}
+
+.footer__button_text {
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.footer__icons-container {
+    width: 342.18px;
+    height: 40.92px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+    margin-bottom: 100px;
+    transition: .2s linear;
+}
+
+.footer__icon {
+    width: 40.11px;
+    height: 40px;
+}
+
+.footer__title {
+    padding-top: 100px;
+}

@@ -1,0 +1,6 @@
+.header__portrets {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}

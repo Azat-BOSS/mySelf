@@ -1,0 +1,11 @@
+.header__portret {
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: .2s ease-in;
+}
+
+.header__portret:hover {
+    transform: translateY(-15px)
+}

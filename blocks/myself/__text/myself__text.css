@@ -1,0 +1,11 @@
+.myself__text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.myself__text:last-child {
+    margin-bottom: 0;
+}

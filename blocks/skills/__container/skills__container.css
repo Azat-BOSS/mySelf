@@ -1,0 +1,6 @@
+.skills__container {
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 115px;
+}

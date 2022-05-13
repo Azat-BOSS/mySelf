@@ -1,0 +1,5 @@
+.inner__links {
+    width: 950px;
+    display: flex;
+    justify-content: space-between;
+}

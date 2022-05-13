@@ -1,0 +1,5 @@
+.header {
+    min-height: 750px;
+    max-height: 760px;
+    display: flex;
+}
